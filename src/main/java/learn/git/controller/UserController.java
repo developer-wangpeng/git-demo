@@ -12,5 +12,8 @@ public class UserController {
 		return "Welcom to this Project!";
 	}
 	
+	public String addUser(User user){
+		return null;
+	}
 	
 }
